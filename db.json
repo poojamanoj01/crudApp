@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Leanne Greev",
+      "username": "Bret",
+      "email": "sincere@april.biz",
+      "phone": "010-125-4360",
+      "website": "hildegard.org"
+    },
+    {
+      "id": "2",
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-123-4567",
+      "website": "anastasia.net"
+    },
+    {
+      "id": "3",
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "010-987-6543",
+      "website": "ramiro.info"
+    },
+    {
+      "id": "4",
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne@jasper.info",
+      "phone": "010-555-1000",
+      "website": "kale.biz"
+    },
+    {
+      "id": "5",
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "010-567-1234",
+      "website": "demarco.info"
+    },
+    {
+      "id": "6",
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "phone": "010-111-2345",
+      "website": "ola.org"
+    },
+    {
+      "id": "7",
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Taryn@naruto.net",
+      "phone": "010-333-4567",
+      "website": "hildegard.org"
+    },
+    {
+      "id": "8",
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.biz",
+      "phone": "010-555-3333",
+      "website": "ambrose.net"
+    },
+    {
+      "id": "9",
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.co",
+      "phone": "010-666-7777",
+      "website": "conrad.com"
+    }
+  ]
+}
